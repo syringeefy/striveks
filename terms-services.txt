@@ -1,0 +1,39 @@
+Terms of Service for Strive
+1. Introduction
+Welcome to Strive, a Roblox exploit application that allows you to execute scripts on Roblox games. By using this app, you agree to comply with and be bound by these Terms of Service. Please read them carefully before accessing or using the app.
+
+2. Account Creation
+To use Strive, you must create an account by providing a username, password (which is hashed for security purposes), and a license. You are responsible for keeping your account details secure.
+
+3. Use of Strive
+Strive is a paid service for executing scripts within Roblox games. Users are allowed to use Strive for any Roblox game, but use of the app comes with the risk of account bans from Roblox. Strive is not responsible for any actions taken by Roblox in relation to your account.
+
+4. Pricing and Payment
+Strive is a paid service costing $15. Payment can be made via:
+
+Website
+Discord
+Roblox gamepasses
+No refunds will be provided for any payments made.
+
+5. User Responsibilities
+By using Strive, you acknowledge that:
+
+You understand the risks of using Strive, including the potential for your Roblox account to be banned.
+You will not upload or distribute any content through Strive, as the app does not allow for content uploads.
+6. Prohibited Uses
+You are prohibited from:
+
+Modifying, reverse-engineering, or tampering with Strive's code or services.
+Using Strive for malicious or unauthorized purposes, including but not limited to the abuse or exploitation of Roblox games.
+7. Liability
+Strive is provided as-is, without any warranties or guarantees. You acknowledge the risks involved in using the app, including but not limited to the suspension, banning, or termination of your Roblox account. Strive is not liable for any damages, losses, or legal issues resulting from your use of the app.
+
+8. Privacy
+We collect hardware information (HWID) for user verification purposes. No personal data beyond your account details is collected. By using Strive, you consent to the collection and use of this information.
+
+9. Termination
+Strive reserves the right to suspend or terminate your access to the service at any time and for any reason, including violation of these Terms of Service.
+
+10. Governing Law
+These Terms of Service are governed by the laws of Rotterdam, Netherlands. Any disputes will be handled under the jurisdiction of Rotterdam.
